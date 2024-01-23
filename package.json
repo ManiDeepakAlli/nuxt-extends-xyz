@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-extends-abc",
+  "name": "nuxt-extends-xyz",
   "private": true,
   "scripts": {
     "build": "nuxt build",
